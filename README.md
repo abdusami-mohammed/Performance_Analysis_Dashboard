@@ -1,5 +1,5 @@
 # Performance_Analysis_Dashboard
-![pic]
+![pic](https://github.com/abdusami-mohammed/Performance_Analysis_Dashboard/blob/1db6208a1d76daacb16768d85f6799a6ad764590/Images/Hotel%20Performance%20dashboard%20PROJ_page-1.jpg)
 ## Project Description:
 
 ### Problem:
@@ -17,3 +17,5 @@ This dynamic dashboard not only visualized revenue trends but also broke down pe
 
 ### Impact:
 The implementation of this dashboard enabled real-time insights into critical metrics, allowing management to quickly identify and address issues related to cancellations, no-shows, and underperforming properties. By presenting a clear picture of operational performance, the dashboard facilitated timely, informed decision-making, ultimately enhancing the hotel's revenue management strategies and improving overall profitability.
+
+![pic](https://github.com/abdusami-mohammed/Performance_Analysis_Dashboard/blob/1db6208a1d76daacb16768d85f6799a6ad764590/Images/Hotel%20Performance%20dashboard%20PROJ_page-2.jpg)
