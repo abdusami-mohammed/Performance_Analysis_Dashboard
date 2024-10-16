@@ -1,7 +1,11 @@
 # Performance_Analysis_Dashboard
 ![pic](https://github.com/abdusami-mohammed/Performance_Analysis_Dashboard/blob/1db6208a1d76daacb16768d85f6799a6ad764590/Images/Hotel%20Performance%20dashboard%20PROJ_page-1.jpg)
-## Project Description:
+## Project Overview:
+In this project, I developed an interactive Power BI dashboard for a hotel chain, aimed at improving their sales and operational analysis. Starting with raw data from multiple sources, the project focused on transforming the data into actionable insights, allowing the hotel management to better understand key metrics like bookings, revenue, occupancy, and performance trends. The dashboard provides real-time visibility into important KPIs, ensuring quick decision-making and operational efficiency.
 
+Key tools and technologies used include Power BI for visualization, DAX for dynamic calculations, and Power Query for data transformation, providing a comprehensive solution for ongoing data-driven decision-making.
+
+---
 ### Problem:
 The hotel chain faced significant challenges with its sales analysis, relying on static reports to assess bookings, revenue, and occupancy. This method resulted in delayed insights into cancellations, no-shows, and room performance, ultimately limiting the ability to make data-driven decisions.
 
